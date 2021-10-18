@@ -2,10 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I was a Teaching Assistant for.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+CS2214 Discrete Structures for Computer Science, Fall 2020, 2021:
 
-Organize your courses by years, topics, or universities, however you like!
+
+CS3340 Analysis of Algorithms, Winter 2020:
