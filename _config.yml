@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Ryan
-middle_name: 
+middle_name:
 last_name: Sandford
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -49,10 +49,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username:  RyanSandford
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: ryansandford
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -63,7 +63,7 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
+dblp_url: https://dblp.org/pid/283/7375.html
 stackoverflow_id: #your stackoverflow id
 
 rss_icon: true
@@ -158,8 +158,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Sandford
+  first_name: [Ryan]
 
   style: apa
   locale: en
