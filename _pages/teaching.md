@@ -20,6 +20,7 @@ Western Fall Student Internship 2020 ($1,400 CAD)
 Western Undergraduate Student Research Internship 2020 ($6,500 CAD)
 
 National Science and Engineering Research Council of Canada Undergraduate Student Research Award 2019 ($8,000 CAD)
+
 Western Scholar 2016-2020
 
 Dean's Honor List 2016-2020
