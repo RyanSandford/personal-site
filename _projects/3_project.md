@@ -2,7 +2,7 @@
 layout: page
 title: Pick 5 Home Fitness
 description: An android application for equipment less, at home workouts
-img:
+img: /assets/img/pick5_thumbnail.png
 importance: 3
 category: fun
 ---
