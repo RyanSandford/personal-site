@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: teaching and awards
 description: Courses I was a Teaching Assistant for.
 nav: true
 ---
