@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Regular Chains Library Developer
 description: a project with a background image
 img: /assets/img/regular_chains_thumbnail.png
 importance: 1
