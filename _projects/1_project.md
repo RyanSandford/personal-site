@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Regular Chains Library Developer
-description: a project with a background image
+description: Developed tools for the regular chains library
 img: /assets/img/regular_chains_thumbnail.png
 importance: 1
 category: work
