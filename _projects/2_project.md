@@ -23,7 +23,7 @@ This resulted in the construction, proof, and formalization of many properties o
 from a 2-adjoint equivalence. The following summer the remaining properties were formalized by Daniel
 Carranza. The final, formalized proofs were added to the
 [HoTT in Lean 3 library](https://github.com/gebner/hott3) and can be found in
-the [2adj](https://github.com/gebner/hott3/src/hott/types/2 adj) directory.
+the [2adj](https://github.com/gebner/hott3/tree/master/src/hott/types/2_adj) directory.
 Moreover, a paper describing the 2-adjoint equivalence, and its formalization was
 published to the journal of Logical Methods in Computer Science which can be found at
 https://lmcs.episciences.org/7124.
