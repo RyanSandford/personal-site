@@ -53,7 +53,7 @@ Additional links are provided in the [publication](https://ryansandford.github.i
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Table 1 is provided in section 1 of the HoTT book and provides a comparison between sets, types, logic, and homotopies.
 </div>
 
 You can also put regular text between your rows of images.
@@ -70,7 +70,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    The HoTT book can be found at https://homotopytypetheory.org/book/.
 </div>
 
 
