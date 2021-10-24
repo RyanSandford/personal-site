@@ -1,23 +1,33 @@
 ---
 layout: page
 title: Lean 3 Homotopy Type Theory Library Contribution
-description: Contributed formalized proofs of the 2-adjoint equivalence to the open source Homotopy Type Theory Library in Lean 3
+description: Contributed formalized proofs regarding the notion of the 2-adjoint equivalence to the open source Homotopy Type Theory Library in Lean 3
 img: /assets/img/HOTT_thumbnail.png
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Homotopy Type Theory (HoTT) is an intuitionistic type theory which views types
+as abstract, homotopy-invariant objects. As remarked in the HoTT book,
+this correspondence is quite remarkable as it provides a link between
+homotopy theory (which is related to algebraic topology, homological algebra, and higher category theory)
+and type theory, a field of mathematical logic and theoretical computer science.
+HoTT provides a type-theoretic foundation to
+mathematics rather then the conventional set theoretic foundation.
+This in turn, allows for proofs within HoTT to be formalized and
+understood by a computer via a proof assistant.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+During the summer of 2019, myself, Daniel Carranza, and Jonathan Chang, under the supervision of
+Chris Kapulkin, began exploring the notion of 2-adjoint equivalences and coherences between types.
+This resulted in the construction, proof, and formalization of many properties one would expect
+from a 2-adjoint equivalence. The following summer the remaining properties were formalized by Daniel
+Carranza. The final, formalized proofs were added to the Lean 3, HoTT library and can be found in
+the 2adj directory. Moreover, a paper describing the 2-adjoint equivalence, and its formalization was
+published to the journal of logical methods in computer science which can be found at:.
+Additional links are provided in the publication section of this site.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+
+
     ---
 
 <div class="row">
