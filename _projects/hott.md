@@ -49,7 +49,7 @@ Additional links are provided in the [publication](https://ryansandford.github.i
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/HoTT_table.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/HoTT_table.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -66,7 +66,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Hott_book_cover' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Hott_book_cover.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
