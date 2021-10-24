@@ -25,8 +25,8 @@ Carranza. The final, formalized proofs were added to the
 [HoTT in Lean 3 library](https://github.com/gebner/hott3) and can be found in
 the [2adj](https://github.com/gebner/hott3/tree/master/src/hott/types/2_adj) directory.
 Moreover, a paper describing the 2-adjoint equivalence, and its formalization was
-published to the journal of Logical Methods in Computer Science which can be found at
-https://lmcs.episciences.org/7124.
+published to the journal of Logical Methods in Computer Science which can be
+found at https://lmcs.episciences.org/7124.
 Additional links are provided in the [publication](https://ryansandford.github.io/publications/) section of this site.
 
 
@@ -49,7 +49,7 @@ Additional links are provided in the [publication](https://ryansandford.github.i
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/HoTT_table.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -66,7 +66,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Hott_book_cover' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -78,14 +78,3 @@ The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```
