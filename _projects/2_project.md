@@ -21,10 +21,13 @@ During the summer of 2019, myself, Daniel Carranza, and Jonathan Chang, under th
 Chris Kapulkin, began exploring the notion of 2-adjoint equivalences and coherences between types.
 This resulted in the construction, proof, and formalization of many properties one would expect
 from a 2-adjoint equivalence. The following summer the remaining properties were formalized by Daniel
-Carranza. The final, formalized proofs were added to the Lean 3, HoTT library and can be found in
-the 2adj directory. Moreover, a paper describing the 2-adjoint equivalence, and its formalization was
-published to the journal of logical methods in computer science which can be found at:.
-Additional links are provided in the publication section of this site.
+Carranza. The final, formalized proofs were added to the
+[HoTT in Lean 3 library](https://github.com/gebner/hott3) and can be found in
+the [2adj](https://github.com/gebner/hott3/src/hott/types/2 adj) directory.
+Moreover, a paper describing the 2-adjoint equivalence, and its formalization was
+published to the journal of Logical Methods in Computer Science which can be found at
+https://lmcs.episciences.org/7124.
+Additional links are provided in the [publication](https://ryansandford.github.io/publications/) section of this site.
 
 
 
