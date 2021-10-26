@@ -60,9 +60,6 @@ A well written and informal introduction to HoTT can be found [here](http://www.
 The author also provides some very nice visuals (including the thumbnail of this project).
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Hott_book_cover.png' | relative_url }}" alt="" title="example image"/>
     </div>
