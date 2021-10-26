@@ -31,18 +31,21 @@ Additional links are provided in the [publication](https://ryansandford.github.i
 
 
 
-    ---
-
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/homotopy.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/homotopyhomotopy.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Proving equality between types corresponds to showing there is a path between spaces (more specifically,
+      that the path space is inhabited). We can also prove equality of path
+      spaces by considering paths between paths, as we see in the first image, and equality of
+      paths between paths by showing there is a path between paths between paths, as we
+      see in the second image. 
+
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
