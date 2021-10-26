@@ -74,6 +74,6 @@ Useful Links:
 
 [HoTT book](https://homotopytypetheory.org/book/)
 
-[HoTT wikipedia](https://en.wikipedia.org/wiki/Homotopy_type_theory)
+[HoTT wikipedia page](https://en.wikipedia.org/wiki/Homotopy_type_theory)
 
 [Lean 3 Theorem Prover](https://github.com/leanprover/lean)
