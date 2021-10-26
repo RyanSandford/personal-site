@@ -26,7 +26,7 @@ Carranza. The final, formalized proofs were added to the
 the [2adj](https://github.com/gebner/hott3/tree/master/src/hott/types/2_adj) directory.
 Moreover, a paper describing the 2-adjoint equivalence, and its formalization was
 published to the journal of Logical Methods in Computer Science which can be
-found at https://lmcs.episciences.org/7124.
+found [here](https://lmcs.episciences.org/7124).
 Additional links are provided in the [publication](https://ryansandford.github.io/publications/) section of this site.
 
 
@@ -56,10 +56,8 @@ Additional links are provided in the [publication](https://ryansandford.github.i
     Table 1 is provided in section 1 of the HoTT book and provides a comparison between sets, types, logic, and homotopies.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
+A well written and informal introduction to HoTT can be found [here](http://www.science4all.org/article/homotopy-type-theory/).
+The author also provides some very nice visuals (including the thumbnail of this project).
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -70,11 +68,5 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    The HoTT book can be found at https://homotopytypetheory.org/book/.
+    The HoTT book can be found [here](https://homotopytypetheory.org/book/).
 </div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
