@@ -6,14 +6,14 @@ description:
 nav: true
 ---
 
-###Teaching Assistant:
+### Teaching Assistant:
 
 * CS2214 Discrete Structures for Computer Science, Fall 2020, 2021
 
 * CS3340 Analysis of Algorithms, Winter 2020
 
 
-###Awards:
+### Awards:
 
 * Mitacs Accelerate Fellowship 2021 ($15,000 CAD)
 

@@ -7,7 +7,7 @@ importance: 2
 category: work
 ---
 
-Homotopy Type Theory (HoTT) is an intuitionistic type theory which views types
+__Homotopy Type Theory (HoTT)__ is an intuitionistic type theory which views types
 as abstract, homotopy-invariant objects. As remarked in the HoTT book,
 this correspondence is quite remarkable as it provides a link between
 homotopy theory (which is related to algebraic topology, homological algebra, and higher category theory)
@@ -18,13 +18,13 @@ This in turn, allows for proofs within HoTT to be formalized and
 understood by a computer via a proof assistant.
 
 During the summer of 2019, myself, Daniel Carranza, and Jonathan Chang, under the supervision of
-Chris Kapulkin, began exploring the notion of 2-adjoint equivalences and coherences between types.
+Chris Kapulkin, began exploring the notion of __2-adjoint equivalences__ and coherences between types.
 This resulted in the construction, proof, and formalization of many properties one would expect
 from a 2-adjoint equivalence. The following summer the remaining properties were formalized by Daniel
 Carranza. The final, formalized proofs were added to the
 [HoTT in Lean 3 library](https://github.com/gebner/hott3) and can be found in
 the [2adj](https://github.com/gebner/hott3/tree/master/src/hott/types/2_adj) directory.
-Moreover, a paper describing the 2-adjoint equivalence, and its formalization was
+Moreover, a paper describing the 2-adjoint equivalence and its formalization was
 published to the journal of Logical Methods in Computer Science which can be
 found [here](https://lmcs.episciences.org/7124).
 Additional links are provided in the [publication](https://ryansandford.github.io/publications/) section of this site.
@@ -68,12 +68,12 @@ The author also provides some very nice visualizations (including the thumbnail 
     The Homotopy Type Theory Book.
 </div>
 
-Useful Links:
+__Useful Links:__
 
-[HoTT website](https://homotopytypetheory.org)
+* [HoTT website](https://homotopytypetheory.org)
 
-[HoTT book](https://homotopytypetheory.org/book/)
+* [HoTT book](https://homotopytypetheory.org/book/)
 
-[HoTT wikipedia page](https://en.wikipedia.org/wiki/Homotopy_type_theory)
+* [HoTT wikipedia page](https://en.wikipedia.org/wiki/Homotopy_type_theory)
 
-[Lean 3 Theorem Prover](https://github.com/leanprover/lean)
+* [Lean 3 Theorem Prover](https://github.com/leanprover/lean)
