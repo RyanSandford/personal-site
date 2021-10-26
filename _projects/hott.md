@@ -57,7 +57,7 @@ Additional links are provided in the [publication](https://ryansandford.github.i
 </div>
 
 A well written and informal introduction to HoTT can be found [here](http://www.science4all.org/article/homotopy-type-theory/).
-The author also provides some very nice visuals (including the thumbnail of this project).
+The author also provides some very nice visualizations (including the thumbnail of this project).
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -65,5 +65,15 @@ The author also provides some very nice visuals (including the thumbnail of this
     </div>
 </div>
 <div class="caption">
-    The HoTT book can be found [here](https://homotopytypetheory.org/book/).
+    The Homotopy Type Theory Book.
 </div>
+
+Useful Links:
+
+[HoTT website](https://homotopytypetheory.org)
+
+[HoTT book](https://homotopytypetheory.org/book/)
+
+[HoTT wikipedia](https://en.wikipedia.org/wiki/Homotopy_type_theory)
+
+[Lean 3 Theorem Prover](https://github.com/leanprover/lean)
