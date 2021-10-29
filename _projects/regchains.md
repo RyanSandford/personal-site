@@ -21,17 +21,20 @@ I have been developing commands in the
 _AlgebraicGeometryTools_ sub-package of the _RegularChains_ library. In particular,
 my work concerns the _IntersectionMultiplicity_, _TangentCone_, and _TriangularizeWithMultiplicity_
 commands, where I have introduced new, underlying algorithms and improved the implementation
-of previous algorithms.
+of previous algorithms. A paper on this work and the resulting performance improvements,
+is underway and will be made available shortly.
 
 The _ReguarChains_ library is available through [Maple](https://www.maplesoft.com/products/Maple/) or through the regular chains website [here](http://www.regularchains.org/).
 
 <div class="row">
     <div class="col-sm-12 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/regular-regular_chains_thumbnail.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/regular_chains_thumbnail.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    The _LimitPoints_ command uses regular chains to compute the limit points of a space curve.
+    Here the space curve (in green) is defined by the intersection of the red and blue surfaces,
+    with limit points (0,0,0) and (0,1,0).
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -39,14 +42,17 @@ The _ReguarChains_ library is available through [Maple](https://www.maplesoft.co
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+  The _TangentCone_ command uses regular chains to compute the tangent cone of a 1-dimensional hypersurface. The
+  resulting tangent cone is displayed here in green.
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mth191.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mth191.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    The _TriangularizeWithMultiplicity_ command can be used to solve a system of polynomial equations
+    and compute the intersection multiplicity at each solution. Above we display the polynomial system mth191, for which _TriangularizeWithMultiplicity_ returns 8 solutions in the form of regular chains, and their corresponding
+    intersection multiplicities.
 </div>
