@@ -27,32 +27,32 @@ is underway and will be made available shortly.
 The _ReguarChains_ library is available through [Maple](https://www.maplesoft.com/products/Maple/) or through the regular chains website [here](http://www.regularchains.org/).
 
 <div class="row">
-    <div class="col-sm-12 mt-3 mt-md-0">
+    <div class="col-sm-9 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/regular_chains_thumbnail.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    The _LimitPoints_ command uses regular chains to compute the limit points of a space curve.
+    The LimitPoints command uses regular chains to compute the limit points of a space curve.
     Here the space curve (in green) is defined by the intersection of the red and blue surfaces,
     with limit points (0,0,0) and (0,1,0).
 </div>
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-9 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/tc.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-  The _TangentCone_ command uses regular chains to compute the tangent cone of a 1-dimensional hypersurface. The
+  The TangentCone command uses regular chains to compute the tangent cone of a 1-dimensional hypersurface. The
   resulting tangent cone is displayed here in green.
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-9 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mth191.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    The _TriangularizeWithMultiplicity_ command can be used to solve a system of polynomial equations
-    and compute the intersection multiplicity at each solution. Above we display the polynomial system mth191, for which _TriangularizeWithMultiplicity_ returns 8 solutions in the form of regular chains, and their corresponding
+    The TriangularizeWithMultiplicity command can be used to solve a system of polynomial equations
+    and compute the intersection multiplicity at each solution. Above we display the polynomial system mth191, for which TriangularizeWithMultiplicity returns 8 solutions in the form of regular chains, and their corresponding
     intersection multiplicities.
 </div>
