@@ -27,7 +27,7 @@ is underway and will be made available shortly.
 The _ReguarChains_ library is available through [Maple](https://www.maplesoft.com/products/Maple/) or through the regular chains website [here](http://www.regularchains.org/).
 
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/regular_chains_thumbnail.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
@@ -37,7 +37,7 @@ The _ReguarChains_ library is available through [Maple](https://www.maplesoft.co
     with limit points (0,0,0) and (0,1,0).
 </div>
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/tc.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
