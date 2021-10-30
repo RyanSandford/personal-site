@@ -7,8 +7,20 @@ importance: 3
 category: fun
 ---
 
-Under Construction
+Pick 5 Home Fitness is an open source android application which provides daily, full-body, workout routines.
+Using only body weight and everyday household items, Pick 5 Home Fitness is able to effectively target and
+strengthen muscle groups often neglected by other equipment-less, home fitness programs.
 
+Pick 5 Home Fitness is available for download at the google play store [here](https://play.google.com/store/apps/details?id=com.ryans.pick5homefitness).
+
+Pick 5 Home Fitness is able to target difficult muscle groups on the posterior chain, such as the hamstrings, back,
+and traps, without the use of any bands, weights, or pull-up bars. Using everyday household objects such as backpacks,
+water bottles, paper, books, and towels (and a little bit of creativity), Pick 5 Home Fitness is able to effectively train
+these difficult muscle groups, often forgotten by traditional equipment-less fitness programs.
+
+Each exercise contains a complete description and visual demonstration making it easy for anyone to follow a workout.
+Recommended set and rep ranges ensure anyone can reach the proper training stimulus needed for muscle growth. Each exercise,
+as well as the corresponding set and rep range, were created by and tested on high caliber athletes to ensure their quality.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,31 +33,25 @@ Under Construction
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/p53.webp' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
+### Key Features
+- Daily workout generator
+- 80+ exercises targeting chest, abs, quads, calves, upper and lower back, hamstrings, butt, shoulders, biceps, triceps, fore arms, and traps
+- Complete exercise descriptions
+- Visual demonstrations of each exercise
+- Recommended set and rep range tested by high caliber athletes
+- Search exercises by name, muscle group, or materials
+- Favorite exercises to build your own workouts
+- Equipment-less exercises using everyday household items and body weight
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/p54.webp' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/p55.webp' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+
+The code is available [here](https://github.com/RyanSandford/Pick-5-Home-Fitness), although it has been modified in the release version
+to be compatible with google play store requirements. Notable changes in the release version include improved navigation and the integration of play asset delivery
