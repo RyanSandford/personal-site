@@ -18,7 +18,8 @@ and conducted within the Ontario Research Centre for Computer Algebra [(ORCCA)](
 I received a BSc in 2020, with an Honours Specialization in Mathematics and a Major in Computer Science,
 at the [University of Western Ontario](https://www.math.uwo.ca/).
 
-###Research
+### Research
+
 My research focuses mainly on the computational aspects of mathematics.
 Some of my interests include:
 
