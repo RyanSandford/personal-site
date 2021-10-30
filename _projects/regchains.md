@@ -42,7 +42,7 @@ The _ReguarChains_ library is available through [Maple](https://www.maplesoft.co
     </div>
 </div>
 <div class="caption">
-  The TangentCone command uses regular chains to compute the tangent cone of a 1-dimensional hypersurface. The
+  The TangentCone command uses regular chains to compute the tangent cone of a space curve. The
   resulting tangent cone is displayed here in green.
 </div>
 
