@@ -15,7 +15,7 @@ nav: true
 
 ### Awards:
 
-* Mitacs Accelerate Fellowship 2021 ($15,000 CAD)
+* Mitacs Accelerate Fellowship 2021 ($16,250 CAD)
 
 * Western Fall Student Internship 2020 ($1,400 CAD)
 
