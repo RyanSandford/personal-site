@@ -23,7 +23,7 @@ at the [University of Western Ontario](https://www.math.uwo.ca/).
 My research focuses mainly on the computational aspects of mathematics.
 Some of my interests include:
 
-* Computer Algebra and Symbolic computation
+* Computer Algebra and Symbolic Computation
 * Computational Algebraic Geometry
 * Formalization
 * Homotopy Type Theory
