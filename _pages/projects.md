@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of academic and recreational projects
+description: A collection of academic and recreational projects
 nav: true
 display_categories: [work, fun]
 horizontal: false
