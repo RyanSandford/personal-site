@@ -6,7 +6,7 @@ description: <a href="https://www.csd.uwo.ca/">Department of Computer Science, T
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: display_photo.jpeg
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
