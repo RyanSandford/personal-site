@@ -8,9 +8,9 @@ nav: true
 
 ### Teaching Assistant:
 
-* CS2214 Discrete Structures for Computer Science, Fall 2020, 2021
+* CS2214 Discrete Structures for Computer Science: Fall 2020, 2021; Winter 2022
 
-* CS3340 Analysis of Algorithms, Winter 2020
+* CS3340 Analysis of Algorithms: Winter 2020
 
 
 ### Awards:
