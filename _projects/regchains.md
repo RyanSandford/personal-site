@@ -12,9 +12,9 @@ in solving systems of polynomial equations, inequations,
 and inequalities, symbolically. Loosely, regular chains
 are triangular systems of polynomial equations with
 desirable computational properties.
-#The algebraic object associated
-#with the ideal of the vanishing set
-#of a regular chain is its saturated ideal (when saturated by any power of its initial).
+<The algebraic object associated
+with the ideal of the vanishing set
+of a regular chain is its saturated ideal (when saturated by any power of its initial).>
 A formal definition of a regular chain and a description of its properties
 and implementation in Maple can be found [here](https://www.maplesoft.com/support/help/maple/view.aspx?path=RegularChains).
 
@@ -24,10 +24,10 @@ my work concerns the _IntersectionMultiplicity_, _TangentCone_, and _Triangulari
 commands, where I have introduced new, underlying algorithms and improved the implementation
 of previous algorithms. A paper on this work and the resulting performance improvements,
 is underway and will be made available shortly.
-#For now, the corresponding slides can be found [here]()
+<#For now, the corresponding slides can be found [here]()>
 
 Additionally, I have helped prepare materials on Regular Chains and their applications for the
-[Advanced Problem Solving with Regular Chains](https://ryansandford.github.io/assets/pdf/RegularChains) tutorial given in the 2021 Maple conference.
+[Advanced Problem Solving with Regular Chains](https://ryansandford.github.io/assets/pdf/RegularChains.pdf) tutorial given in the 2021 Maple conference.
 
 The _ReguarChains_ library is available through [Maple](https://www.maplesoft.com/products/Maple/) or through the regular chains website [here](http://www.regularchains.org/).
 
