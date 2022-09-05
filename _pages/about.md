@@ -21,7 +21,6 @@ former publications and projects.
 I received my MSc in Computer Science from the University of Western Ontario in 2022, studying __Computer Algebra__.
 My research was supervised by Professor [Marc Moreno Maza](https://www.csd.uwo.ca/~mmorenom/)
 and conducted within the Ontario Research Centre for Computer Algebra [(ORCCA)](http://www.orcca.on.ca/).
-
 I also received a BSc in 2020, with an Honours Specialization in Mathematics and a Major in Computer Science,
 at the [University of Western Ontario](https://www.math.uwo.ca/).
 
