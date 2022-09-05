@@ -11,4 +11,4 @@ The following poster summarizes some of the results from my research into genera
 The poster was presented in a joint lab meeting for the Ontario Research Centre for Computer Algebra [(ORCCA)](http://www.orcca.on.ca/). 
 The pdf can be found on the ORCCA website [here](https://www.orcca.on.ca/presentations.html).
 
-<img class="img-fluid rounded z-depth-1" src="{{ '/assets/pdf/poster.pdf' | relative_url }}" alt="" title="example image"/>
+<embed src="assets/pdf/poster.pdf" type="application/pdf" width="100%" height="600px" />
