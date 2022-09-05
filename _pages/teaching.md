@@ -10,7 +10,7 @@ nav: true
 
 * CS2214 Discrete Structures for Computer Science: Fall 2020, 2021; Winter 2022
 
-* CS3340 Analysis of Algorithms: Winter 2020
+* CS3340 Analysis of Algorithms: Winter 2021
 
 
 ### Awards:
