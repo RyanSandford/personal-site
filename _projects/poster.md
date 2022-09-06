@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intersection Multiplicity Poster
-description: An overview of the generalization of Fulton's algorithm
+description: An overview of the generalization of Fulton's intersection multiplicity algorithm
 img: /assets/img/poster.png
 importance: 3
 category: work
